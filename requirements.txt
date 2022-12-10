@@ -13,5 +13,3 @@ imutils
 scikit-image
 streamlit_webrtc
 joblib
-mtcnn
-dlib-bin

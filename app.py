@@ -17,7 +17,6 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.models import  load_model
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
-import dlib
 
 # Dinh nghia class
 class_name = ['00000','10000','20000','50000']
